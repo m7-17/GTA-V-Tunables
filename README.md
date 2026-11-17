@@ -1,4 +1,6 @@
 THIS FORK IS FOCUSED ONLY ON LEGACY PLATAFORMS PC, PS4, XBOXONE.
+If you want to see content for GTA Enhanced, you can go to this repo
+[![GitHub OL ENHACED]([(https://github.com/klarraiov/OL-Tunables))]
 
 [![GitHub version](https://badge.fury.io/gh/hectorredx%2FGTAV-Tunables.svg?v=3)](https://badge.fury.io/gh/hectorredx%2FGTAV-Tunables)
 [![Decrypt Tunables](https://github.com/hectorredx/GTAV-Tunables/actions/workflows/decrypt.yml/badge.svg?event=workflow_dispatch)](https://github.com/hectorredx/GTAV-Tunables/actions/workflows/decrypt.yml)
