@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '15 10 * * thu' # Every Thursday At 10:15
+permissions:
+  contents: write
 
 jobs:
   build:
